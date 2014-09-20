@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AppTest</string>
+    <string name="action_left">Esquerda</string>
+    <string name="action_right">Direita</string>
+    <string name="action_settings">Configurações</string>
+    <string name="action_settings_exit">Sair</string>
+
+    <string name="message_welcome">Clica nas estrelas ali em cima</string>
+    <string name="hello_blank_fragment">Blank Fragment</string>
+
+</resources>
